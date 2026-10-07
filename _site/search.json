@@ -32,7 +32,7 @@
     "href": "projects.html#career-market-analytics-with-pyspark",
     "title": "Projects",
     "section": "Career Market Analytics with PySpark",
-    "text": "Career Market Analytics with PySpark\nAnalyzed large-scale job posting data using PySpark to identify employment trends, industry demand, salary patterns, and skill requirements across business analytics-related occupations.\nTools: PySpark, Python, Spark SQL, AWS, Quarto, GitHub\nKey Work:\n\nCleaned and transformed large job-posting datasets using Spark DataFrames\nAnalyzed job demand by NAICS industry and occupation\nExplored salary patterns and employment trends\nExamined skill requirements across analytics-related roles\nBuilt a Quarto-based website to present findings and recommendations"
+    "text": "Career Market Analytics with PySpark\nAnalyzed large-scale job posting data using PySpark to identify employment trends, industry demand, salary patterns, and skill requirements across business analytics-related occupations.\nTools: PySpark, Python, Spark SQL, AWS, Quarto, GitHub\nKey Work:\n\nCleaned and transformed large job-posting datasets using Spark DataFrames\nAnalyzed job demand by NAICS industry and occupation\nExplored salary patterns and employment trends\nExamined skill requirements across analytics-related roles\nBuilt a Quarto-based website to present findings and recommendations\n\n\nAverage salary comparison across selected major U.S. metro areas.\n\nTop industries by job posting count based on NAICS 2022 classification."
   },
   {
     "objectID": "projects.html#operational-testing-cost-analysis",
@@ -46,14 +46,14 @@
     "href": "projects.html#capital-investment-roi-analysis",
     "title": "Projects",
     "section": "Capital Investment ROI Analysis",
-    "text": "Capital Investment ROI Analysis\nEvaluated the financial feasibility of acquiring industrial inspection technology by comparing purchasing, rental, outsourcing, and operational cost scenarios.\nTools: Excel, ROI Analysis, Payback Period, Scenario Analysis\nKey Work:\n\nCompared multiple investment alternatives\nEstimated implementation and operating costs\nCalculated ROI and payback period\nEvaluated financial risks under different scenarios\nDeveloped recommendations to support capital investment decisions\n\nNote: Business data and values have been anonymized for confidentiality."
+    "text": "Capital Investment ROI Analysis\nEvaluated the financial feasibility of acquiring industrial inspection technology by comparing purchasing, rental, outsourcing, and operational cost scenarios.\nTools: Excel, ROI Analysis, Payback Period, Scenario Analysis\nKey Work:\n\nCompared multiple investment alternatives\nEstimated implementation and operating costs\nCalculated ROI and payback period\nEvaluated financial risks under different scenarios\nDeveloped recommendations to support capital investment decisions\n\n\nIllustrative visualization recreated for portfolio presentation based on the original analysis.\nNote: Business data and values have been anonymized or simplified for confidentiality."
   },
   {
     "objectID": "projects.html#microbrewery-strategy-decision-support-academic-project",
     "href": "projects.html#microbrewery-strategy-decision-support-academic-project",
     "title": "Projects",
     "section": "Microbrewery Strategy & Decision Support — Academic Project",
-    "text": "Microbrewery Strategy & Decision Support — Academic Project\nDeveloped a business strategy and decision-support analysis for a proposed microbrewery as part of a graduate-level business analytics project.\nMethods: SWOT, PESTEL, Break-Even Analysis, Decision Trees, Sensitivity Analysis, ROI Analysis\nKey Work:\n\nConducted competitive and market analysis\nEvaluated financial feasibility using break-even and ROI analysis\nUsed decision trees and sensitivity analysis to evaluate business risks\nAnalyzed operations, inventory, innovation, and HR considerations\nDeveloped strategic recommendations based on quantitative and qualitative analysis"
+    "text": "Microbrewery Strategy & Decision Support — Academic Project\nDeveloped a simulated business strategy and decision-support analysis for a proposed microbrewery as part of a graduate-level business analytics course.\nMethods: SWOT, PESTEL, Break-Even Analysis, Decision Trees, Sensitivity Analysis, ROI Analysis\nKey Work:\n\nConducted competitive and market analysis\nEvaluated financial feasibility using break-even and ROI analysis\nUsed decision trees and sensitivity analysis to evaluate business risks\nAnalyzed operations, inventory, innovation, and HR considerations\nDeveloped strategic recommendations based on quantitative and qualitative analysis\n\n\nIllustrative visualization recreated for portfolio presentation based on the academic project analysis."
   },
   {
     "objectID": "about.html",

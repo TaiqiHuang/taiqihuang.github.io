@@ -60,13 +60,17 @@ Evaluated the financial feasibility of acquiring industrial inspection technolog
 - Evaluated financial risks under different scenarios
 - Developed recommendations to support capital investment decisions
 
-*Note: Business data and values have been anonymized for confidentiality.*
+![](Image/Capital_Investment_ROI_Analysis.png){fig-alt="Capital investment ROI analysis dashboard" width="100%"}
+
+*Illustrative visualization recreated for portfolio presentation based on the original analysis.*
+
+*Note: Business data and values have been anonymized or simplified for confidentiality.*
 
 ---
 
 ## Microbrewery Strategy & Decision Support — Academic Project
 
-Developed a business strategy and decision-support analysis for a proposed microbrewery as part of a graduate-level business analytics project.
+Developed a simulated business strategy and decision-support analysis for a proposed microbrewery as part of a graduate-level business analytics course.
 
 **Methods:** SWOT, PESTEL, Break-Even Analysis, Decision Trees, Sensitivity Analysis, ROI Analysis
 
@@ -77,3 +81,7 @@ Developed a business strategy and decision-support analysis for a proposed micro
 - Used decision trees and sensitivity analysis to evaluate business risks
 - Analyzed operations, inventory, innovation, and HR considerations
 - Developed strategic recommendations based on quantitative and qualitative analysis
+
+![](Image/Microbrewery_Break_Even_Dashboard.png){fig-alt="Microbrewery break-even and decision analysis dashboard" width="100%"}
+
+*Illustrative visualization recreated for portfolio presentation based on the academic project analysis.*
