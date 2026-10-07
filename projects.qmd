@@ -18,6 +18,14 @@ Analyzed large-scale job posting data using **PySpark** to identify employment t
 - Examined skill requirements across analytics-related roles
 - Built a Quarto-based website to present findings and recommendations
 
+![](images/average_salary_metro.png){fig-alt="Average salary comparison across selected major U.S. metro areas" width="90%"}
+
+*Average salary comparison across selected major U.S. metro areas.*
+
+![](images/job_count_naics.png){fig-alt="Job posting count by NAICS 2022 industry classification" width="100%"}
+
+*Top industries by job posting count based on NAICS 2022 classification.*
+
 ---
 
 ## Operational Testing Cost Analysis
