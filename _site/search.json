@@ -86,9 +86,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Taiqi Huang",
+    "title": "Taiqi Huang | Business & Data Analytics Professional",
     "section": "",
-    "text": "MS in Applied Business Analytics candidate at Boston University with over three years of professional experience in data analysis, quality operations, process improvement, and cross-functional business support.\nI enjoy turning complex operational data into clear insights that support better business decisions.\n\n\n\nData Analysis and Visualization\nBusiness Analytics\nPower BI Dashboard Development\nSQL and Python\nPySpark and Big Data Analytics\nProcess Improvement\nCross-Functional Project Support\nBusiness Decision Making\n\n\n\n\nProgramming & Analytics: Python, SQL, R, PySpark\nVisualization: Power BI, Excel, Matplotlib, Plotly\nBusiness Analysis: ROI Analysis, Cost Analysis, KPI Reporting, Scenario Analysis\nSystems: Oracle JD Edwards, GitHub, AWS, Quarto\n\n\n\nI am interested in opportunities in:\n\nData Analytics\nBusiness Analytics\nBusiness Intelligence\nStrategy and Operations\nProduct and Business Planning\nAnalytics & Insights\n\n\n\n\nExplore selected academic and professional analytics projects on the Projects page."
+    "text": "Turning operational data into actionable business decisions.\nMS in Applied Business Analytics candidate with over three years of experience in data analysis, manufacturing operations, process improvement, and cross-functional decision support.\nView Projects Download Resume"
   },
   {
     "objectID": "index.html#areas-of-expertise",
@@ -114,9 +114,9 @@
   {
     "objectID": "index.html#featured-projects",
     "href": "index.html#featured-projects",
-    "title": "Taiqi Huang",
-    "section": "",
-    "text": "Explore selected academic and professional analytics projects on the Projects page."
+    "title": "Taiqi Huang | Business & Data Analytics Professional",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\nCareer Market Analytics\nPySpark · AWS · Spark SQL\nAnalyzed large-scale job posting data to identify industry demand, salary patterns, and skill requirements across analytics-related roles.\nView Projects →\n\n\nCapital Investment ROI Analysis\nROI · Payback · Scenario Analysis\nCompared purchasing, rental, and outsourcing alternatives to support capital investment decision-making.\nView Projects →\n\n\nMicrobrewery Decision Analysis\nBreak-Even · SWOT · Decision Tree\nDeveloped a simulated business strategy and decision-support analysis combining financial, operational, and qualitative methods.\nView Projects →"
   },
   {
     "objectID": "cv.html",
@@ -159,5 +159,26 @@
     "title": "CV",
     "section": "Download My Resume",
     "text": "Download My Resume\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "index.html#business-data-analytics-professional",
+    "href": "index.html#business-data-analytics-professional",
+    "title": "Taiqi Huang | Business & Data Analytics Professional",
+    "section": "",
+    "text": "Turning operational data into actionable business decisions.\nMS in Applied Business Analytics candidate with over three years of experience in data analysis, manufacturing operations, process improvement, and cross-functional decision support.\nView Projects Download Resume"
+  },
+  {
+    "objectID": "index.html#what-i-work-with",
+    "href": "index.html#what-i-work-with",
+    "title": "Taiqi Huang | Business & Data Analytics Professional",
+    "section": "What I Work With",
+    "text": "What I Work With\n\n\nAnalytics\nPython\nSQL\nR\nPySpark\n\n\nVisualization\nPower BI\nExcel\nMatplotlib\nPlotly\n\n\nBusiness Analysis\nROI Analysis\nKPI Reporting\nScenario Analysis\nProcess Improvement"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Taiqi Huang | Business & Data Analytics Professional",
+    "section": "About Me",
+    "text": "About Me\nI combine hands-on business experience with graduate-level analytics training to solve operational and strategic problems using data.\nMy professional background includes operational analysis, management reporting, process improvement, quality systems, and cross-functional project coordination.\nLearn More About Me →"
   }
 ]

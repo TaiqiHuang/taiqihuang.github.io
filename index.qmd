@@ -1,42 +1,92 @@
 ---
-title: "Taiqi Huang"
+title: Taiqi Huang | Business & Data Analytics Professional
 ---
 
-# Business & Data Analytics Professional
+::: {.hero}
 
-MS in Applied Business Analytics candidate at Boston University with over three years of professional experience in data analysis, quality operations, process improvement, and cross-functional business support.
+# Taiqi Huang
 
-I enjoy turning complex operational data into clear insights that support better business decisions.
+## Business & Data Analytics Professional
 
-## Areas of Expertise
+Turning operational data into actionable business decisions.
 
-- Data Analysis and Visualization
-- Business Analytics
-- Power BI Dashboard Development
-- SQL and Python
-- PySpark and Big Data Analytics
-- Process Improvement
-- Cross-Functional Project Support
-- Business Decision Making
+MS in Applied Business Analytics candidate with over three years of experience in data analysis, manufacturing operations, process improvement, and cross-functional decision support.
 
-## Technical Skills
+[View Projects](projects.qmd){.btn .btn-primary}
+[Download Resume](Taiqi_Huang_Resume.pdf){.btn .btn-outline-primary target="_blank"}
 
-**Programming & Analytics:** Python, SQL, R, PySpark  
-**Visualization:** Power BI, Excel, Matplotlib, Plotly  
-**Business Analysis:** ROI Analysis, Cost Analysis, KPI Reporting, Scenario Analysis  
-**Systems:** Oracle JD Edwards, GitHub, AWS, Quarto
-
-## Career Interests
-
-I am interested in opportunities in:
-
-- Data Analytics
-- Business Analytics
-- Business Intelligence
-- Strategy and Operations
-- Product and Business Planning
-- Analytics & Insights
+:::
 
 ## Featured Projects
 
-Explore selected academic and professional analytics projects on the **Projects** page.
+::: {.project-grid}
+
+::: {.project-card}
+### Career Market Analytics
+
+**PySpark · AWS · Spark SQL**
+
+Analyzed large-scale job posting data to identify industry demand, salary patterns, and skill requirements across analytics-related roles.
+
+[View Projects →](projects.qmd)
+:::
+
+::: {.project-card}
+### Capital Investment ROI Analysis
+
+**ROI · Payback · Scenario Analysis**
+
+Compared purchasing, rental, and outsourcing alternatives to support capital investment decision-making.
+
+[View Projects →](projects.qmd)
+:::
+
+::: {.project-card}
+### Microbrewery Decision Analysis
+
+**Break-Even · SWOT · Decision Tree**
+
+Developed a simulated business strategy and decision-support analysis combining financial, operational, and qualitative methods.
+
+[View Projects →](projects.qmd)
+:::
+
+:::
+
+## What I Work With
+
+::: {.skills-grid}
+
+::: {.skill-card}
+### Analytics
+Python  
+SQL  
+R  
+PySpark
+:::
+
+::: {.skill-card}
+### Visualization
+Power BI  
+Excel  
+Matplotlib  
+Plotly
+:::
+
+::: {.skill-card}
+### Business Analysis
+ROI Analysis  
+KPI Reporting  
+Scenario Analysis  
+Process Improvement
+:::
+
+:::
+
+## About Me
+
+I combine hands-on business experience with graduate-level analytics training to solve operational and strategic problems using data.
+
+My professional background includes operational analysis, management reporting, process improvement, quality systems, and cross-functional project coordination.
+
+[Learn More About Me →](about.qmd)
