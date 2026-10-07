@@ -2,6 +2,41 @@
 title: "Taiqi Huang"
 ---
 
-This is a Quarto website.
+# Business & Data Analytics Professional
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+MS in Applied Business Analytics candidate at Boston University with over three years of professional experience in data analysis, quality operations, process improvement, and cross-functional business support.
+
+I enjoy turning complex operational data into clear insights that support better business decisions.
+
+## Areas of Expertise
+
+- Data Analysis and Visualization
+- Business Analytics
+- Power BI Dashboard Development
+- SQL and Python
+- PySpark and Big Data Analytics
+- Process Improvement
+- Cross-Functional Project Support
+- Business Decision Making
+
+## Technical Skills
+
+**Programming & Analytics:** Python, SQL, R, PySpark  
+**Visualization:** Power BI, Excel, Matplotlib, Plotly  
+**Business Analysis:** ROI Analysis, Cost Analysis, KPI Reporting, Scenario Analysis  
+**Systems:** Oracle JD Edwards, GitHub, AWS, Quarto
+
+## Career Interests
+
+I am interested in opportunities in:
+
+- Data Analytics
+- Business Analytics
+- Business Intelligence
+- Strategy and Operations
+- Product and Business Planning
+- Analytics & Insights
+
+## Featured Projects
+
+Explore selected academic and professional analytics projects on the **Projects** page.

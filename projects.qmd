@@ -1,0 +1,71 @@
+---
+title: "Projects"
+---
+
+Below are selected academic and professional projects that demonstrate my experience in data analysis, business analytics, visualization, and decision support.
+
+## Career Market Analytics with PySpark
+
+Analyzed large-scale job posting data using **PySpark** to identify employment trends, industry demand, salary patterns, and skill requirements across business analytics-related occupations.
+
+**Tools:** PySpark, Python, Spark SQL, AWS, Quarto, GitHub
+
+**Key Work:**
+
+- Cleaned and transformed large job-posting datasets using Spark DataFrames
+- Analyzed job demand by NAICS industry and occupation
+- Explored salary patterns and employment trends
+- Examined skill requirements across analytics-related roles
+- Built a Quarto-based website to present findings and recommendations
+
+---
+
+## Operational Testing Cost Analysis
+
+Analyzed historical testing and purchase order data to identify spending trends, testing volume, and key cost drivers.
+
+**Tools:** Power BI, Excel, ERP Data, Data Visualization
+
+**Key Work:**
+
+- Consolidated historical testing and purchasing data
+- Created Power BI dashboards for management reporting
+- Compared testing volume and spending trends over time
+- Identified major cost drivers and opportunities for operational improvement
+- Presented findings to support management decision-making
+
+*Note: Business data and values have been anonymized for confidentiality.*
+
+---
+
+## Capital Investment ROI Analysis
+
+Evaluated the financial feasibility of acquiring industrial inspection technology by comparing purchasing, rental, outsourcing, and operational cost scenarios.
+
+**Tools:** Excel, ROI Analysis, Payback Period, Scenario Analysis
+
+**Key Work:**
+
+- Compared multiple investment alternatives
+- Estimated implementation and operating costs
+- Calculated ROI and payback period
+- Evaluated financial risks under different scenarios
+- Developed recommendations to support capital investment decisions
+
+*Note: Business data and values have been anonymized for confidentiality.*
+
+---
+
+## Microbrewery Strategy & Decision Support — Academic Project
+
+Developed a business strategy and decision-support analysis for a proposed microbrewery as part of a graduate-level business analytics project.
+
+**Methods:** SWOT, PESTEL, Break-Even Analysis, Decision Trees, Sensitivity Analysis, ROI Analysis
+
+**Key Work:**
+
+- Conducted competitive and market analysis
+- Evaluated financial feasibility using break-even and ROI analysis
+- Used decision trees and sensitivity analysis to evaluate business risks
+- Analyzed operations, inventory, innovation, and HR considerations
+- Developed strategic recommendations based on quantitative and qualitative analysis

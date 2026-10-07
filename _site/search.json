@@ -4,13 +4,167 @@
     "href": "index.html",
     "title": "Taiqi Huang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "MS in Applied Business Analytics candidate at Boston University with over three years of professional experience in data analysis, quality operations, process improvement, and cross-functional business support.\nI enjoy turning complex operational data into clear insights that support better business decisions.\n\n\n\nData Analysis and Visualization\nBusiness Analytics\nPower BI Dashboard Development\nSQL and Python\nPySpark and Big Data Analytics\nProcess Improvement\nCross-Functional Project Support\nBusiness Decision Making\n\n\n\n\nProgramming & Analytics: Python, SQL, R, PySpark\nVisualization: Power BI, Excel, Matplotlib, Plotly\nBusiness Analysis: ROI Analysis, Cost Analysis, KPI Reporting, Scenario Analysis\nSystems: Oracle JD Edwards, GitHub, AWS, Quarto\n\n\n\nI am interested in opportunities in:\n\nData Analytics\nBusiness Analytics\nBusiness Intelligence\nStrategy and Operations\nProduct and Business Planning\nAnalytics & Insights\n\n\n\n\nExplore selected academic and professional analytics projects on the Projects page."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "I am a business analytics professional with more than three years of experience in manufacturing operations, quality management, data analysis, and cross-functional project support.\nI am currently pursuing a Master of Science in Applied Business Analytics at Boston University, where I continue to strengthen my skills in data analytics, machine learning, big data, and business decision-making.\nBefore beginning my graduate studies, I worked as a Quality Analyst at DMC Power, a Hubbell Incorporated company, where I used operational, supplier, testing, and ERP data to support management decisions and process improvements.\nMy professional experience includes:"
+  },
+  {
+    "objectID": "index.html#areas-of-expertise",
+    "href": "index.html#areas-of-expertise",
+    "title": "Taiqi Huang",
+    "section": "",
+    "text": "Data Analysis and Visualization\nBusiness Analytics\nPower BI Dashboard Development\nSQL and Python\nPySpark and Big Data Analytics\nProcess Improvement\nCross-Functional Project Support\nBusiness Decision Making"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Taiqi Huang",
+    "section": "",
+    "text": "Programming & Analytics: Python, SQL, R, PySpark\nVisualization: Power BI, Excel, Matplotlib, Plotly\nBusiness Analysis: ROI Analysis, Cost Analysis, KPI Reporting, Scenario Analysis\nSystems: Oracle JD Edwards, GitHub, AWS, Quarto"
+  },
+  {
+    "objectID": "index.html#career-interests",
+    "href": "index.html#career-interests",
+    "title": "Taiqi Huang",
+    "section": "",
+    "text": "I am interested in opportunities in:\n\nData Analytics\nBusiness Analytics\nBusiness Intelligence\nStrategy and Operations\nProduct and Business Planning\nAnalytics & Insights"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Taiqi Huang",
+    "section": "",
+    "text": "Explore selected academic and professional analytics projects on the Projects page."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nBoston University\nMaster of Science in Applied Business Analytics\nExpected May 2027\n\n\nUniversity of California, Davis\nBachelor of Arts in Economics\nGraduated June 2022"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\nData & Programming: Python, SQL, R, PySpark\nBusiness Intelligence: Power BI, Excel\nAnalytics: Data Visualization, ROI Analysis, Cost Analysis, KPI Reporting, Statistical Analysis\nTechnology: AWS, GitHub, Quarto, Oracle JD Edwards\nLanguages: Mandarin Chinese, English, Japanese"
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About Me",
+    "section": "Career Goals",
+    "text": "Career Goals\nMy goal is to build a career at the intersection of data analytics, business strategy, and operations.\nI am particularly interested in Data Analyst, Business Analyst, Business Intelligence, Analytics & Insights, Strategy & Operations, and Product Planning opportunities where I can combine analytical skills with real-world business experience."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are selected academic and professional projects that demonstrate my experience in data analysis, business analytics, visualization, and decision support."
+  },
+  {
+    "objectID": "projects.html#career-market-analytics-with-pyspark",
+    "href": "projects.html#career-market-analytics-with-pyspark",
+    "title": "Projects",
+    "section": "Career Market Analytics with PySpark",
+    "text": "Career Market Analytics with PySpark\nAnalyzed large-scale job posting data using PySpark to identify employment trends, industry demand, salary patterns, and skill requirements across business analytics-related occupations.\nTools: PySpark, Python, Spark SQL, AWS, Quarto, GitHub\nKey Work:\n\nCleaned and transformed large job-posting datasets using Spark DataFrames\nAnalyzed job demand by NAICS industry and occupation\nExplored salary patterns and employment trends\nExamined skill requirements across analytics-related roles\nBuilt a Quarto-based website to present findings and recommendations"
+  },
+  {
+    "objectID": "projects.html#operational-testing-cost-analysis",
+    "href": "projects.html#operational-testing-cost-analysis",
+    "title": "Projects",
+    "section": "Operational Testing Cost Analysis",
+    "text": "Operational Testing Cost Analysis\nAnalyzed historical testing and purchase order data to identify spending trends, testing volume, and key cost drivers.\nTools: Power BI, Excel, ERP Data, Data Visualization\nKey Work:\n\nConsolidated historical testing and purchasing data\nCreated Power BI dashboards for management reporting\nCompared testing volume and spending trends over time\nIdentified major cost drivers and opportunities for operational improvement\nPresented findings to support management decision-making\n\nNote: Business data and values have been anonymized for confidentiality."
+  },
+  {
+    "objectID": "projects.html#capital-investment-roi-analysis",
+    "href": "projects.html#capital-investment-roi-analysis",
+    "title": "Projects",
+    "section": "Capital Investment ROI Analysis",
+    "text": "Capital Investment ROI Analysis\nEvaluated the financial feasibility of acquiring industrial inspection technology by comparing purchasing, rental, outsourcing, and operational cost scenarios.\nTools: Excel, ROI Analysis, Payback Period, Scenario Analysis\nKey Work:\n\nCompared multiple investment alternatives\nEstimated implementation and operating costs\nCalculated ROI and payback period\nEvaluated financial risks under different scenarios\nDeveloped recommendations to support capital investment decisions\n\nNote: Business data and values have been anonymized for confidentiality."
+  },
+  {
+    "objectID": "projects.html#microbrewery-strategy-decision-support",
+    "href": "projects.html#microbrewery-strategy-decision-support",
+    "title": "Projects",
+    "section": "Microbrewery Strategy & Decision Support",
+    "text": "Microbrewery Strategy & Decision Support\nDeveloped a business strategy and decision-support analysis for a proposed microbrewery as part of a graduate-level business analytics project.\nMethods: SWOT, PESTEL, Break-Even Analysis, Decision Trees, Sensitivity Analysis, ROI Analysis\nKey Work:\n\nConducted competitive and market analysis\nEvaluated financial feasibility using break-even and ROI analysis\nUsed decision trees and sensitivity analysis to evaluate business risks\nAnalyzed operations, inventory, innovation, and HR considerations\nDeveloped strategic recommendations based on quantitative and qualitative analysis"
+  },
+  {
+    "objectID": "projects.html#microbrewery-strategy-decision-support-academic-project",
+    "href": "projects.html#microbrewery-strategy-decision-support-academic-project",
+    "title": "Projects",
+    "section": "Microbrewery Strategy & Decision Support — Academic Project",
+    "text": "Microbrewery Strategy & Decision Support — Academic Project\nDeveloped a business strategy and decision-support analysis for a proposed microbrewery as part of a graduate-level business analytics project.\nMethods: SWOT, PESTEL, Break-Even Analysis, Decision Trees, Sensitivity Analysis, ROI Analysis\nKey Work:\n\nConducted competitive and market analysis\nEvaluated financial feasibility using break-even and ROI analysis\nUsed decision trees and sensitivity analysis to evaluate business risks\nAnalyzed operations, inventory, innovation, and HR considerations\nDeveloped strategic recommendations based on quantitative and qualitative analysis"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "I am a business analytics professional with over three years of experience in data analysis, manufacturing operations, quality management, and cross-functional project coordination.\nMy professional experience includes analyzing operational and ERP data, developing management reports, supporting process improvement initiatives, conducting cost and ROI analyses, and coordinating quality and compliance activities.\nI am currently pursuing a Master of Science in Applied Business Analytics at Boston University, with expected graduation in May 2027."
+  },
+  {
+    "objectID": "cv.html#professional-background",
+    "href": "cv.html#professional-background",
+    "title": "CV",
+    "section": "",
+    "text": "I am a business analytics professional with over three years of experience in data analysis, manufacturing operations, quality management, and cross-functional project coordination.\nMy professional experience includes analyzing operational and ERP data, developing management reports, supporting process improvement initiatives, conducting cost and ROI analyses, and coordinating quality and compliance activities.\nI am currently pursuing a Master of Science in Applied Business Analytics at Boston University, with expected graduation in May 2027."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\nQuality Analyst — DMC Power, a Hubbell Incorporated Company\nAugust 2022 – March 2026 | Carson, California\n\nAnalyzed operational, supplier, inspection, and ERP data to identify recurring issues, process risks, cost drivers, and improvement opportunities.\nInvestigated manufacturing and supplier discrepancies using root-cause analysis and coordinated corrective actions across functions.\nPrepared quality KPIs and operational trends for management review and decision-making.\nExtracted and validated Oracle JD Edwards and Excel data for analysis and reporting.\nSupported ISO 9001 internal audit activities and corrective-action tracking."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nBoston University, Metropolitan College\nMaster of Science in Applied Business Analytics\nExpected May 2027\n\n\nUniversity of California, Davis\nBachelor of Arts in Economics\nGraduated 2022"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nAnalytics: Excel, Power BI, SQL, Python, R\nMethods: Cost Analysis, ROI Analysis, KPI Analysis, Root-Cause Analysis, Process Improvement, Scenario Analysis\nSystems: Oracle JD Edwards ERP\nLanguages: Mandarin Chinese (Native), English (Fluent), Japanese (JLPT N1)"
+  },
+  {
+    "objectID": "cv.html#download-my-resume",
+    "href": "cv.html#download-my-resume",
+    "title": "CV",
+    "section": "Download My Resume",
+    "text": "Download My Resume\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am open to opportunities and professional connections in data analytics, business analytics, business intelligence, strategy, and operations."
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nEmail: taiqi1999@gmail.com\nLocation: Osaka, Japan\nLanguages: Mandarin Chinese, English, Japanese\nGitHub: github.com/taiqihuang"
+  },
+  {
+    "objectID": "contact.html#professional-interests",
+    "href": "contact.html#professional-interests",
+    "title": "Contact",
+    "section": "Professional Interests",
+    "text": "Professional Interests\nI am particularly interested in opportunities related to:\n\nData Analytics\nBusiness Analytics\nBusiness Intelligence\nStrategy and Operations\nProduct and Business Planning\nAnalytics & Insights\n\nFeel free to contact me regarding professional opportunities, collaborations, or networking."
   }
 ]

@@ -3,11 +3,23 @@ project:
 
 website:
   title: "Taiqi Huang"
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+
+      - href: about.qmd
+        text: About Me
+
+      - href: projects.qmd
+        text: Projects
+
+      - href: cv.qmd
+        text: CV
+
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

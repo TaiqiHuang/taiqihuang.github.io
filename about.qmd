@@ -1,5 +1,42 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+I am a business analytics professional with more than three years of experience in manufacturing operations, quality management, data analysis, and cross-functional project support.
+
+I am currently pursuing a **Master of Science in Applied Business Analytics at Boston University**, where I continue to strengthen my skills in data analytics, machine learning, big data, and business decision-making.
+
+Before beginning my graduate studies, I worked as a **Quality Analyst at DMC Power, a Hubbell Incorporated company**, where I used operational, supplier, testing, and ERP data to support management decisions and process improvements.
+
+My professional experience includes:
+
+- Analyzing operational and quality data to identify trends and improvement opportunities
+- Developing Power BI dashboards and management reports
+- Performing cost, ROI, and investment analyses
+- Supporting ISO 9001 quality management activities
+- Coordinating projects across engineering, manufacturing, purchasing, suppliers, and management
+- Using ERP and business data to support investigations and decision-making
+
+## Education
+
+### Boston University
+**Master of Science in Applied Business Analytics**  
+Expected May 2027
+
+### University of California, Davis
+**Bachelor of Arts in Economics**  
+Graduated June 2022
+
+## Skills
+
+**Data & Programming:** Python, SQL, R, PySpark  
+**Business Intelligence:** Power BI, Excel  
+**Analytics:** Data Visualization, ROI Analysis, Cost Analysis, KPI Reporting, Statistical Analysis  
+**Technology:** AWS, GitHub, Quarto, Oracle JD Edwards  
+**Languages:** Mandarin Chinese, English, Japanese
+
+## Career Goals
+
+My goal is to build a career at the intersection of **data analytics, business strategy, and operations**.
+
+I am particularly interested in Data Analyst, Business Analyst, Business Intelligence, Analytics & Insights, Strategy & Operations, and Product Planning opportunities where I can combine analytical skills with real-world business experience.

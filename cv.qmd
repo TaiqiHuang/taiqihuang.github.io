@@ -1,0 +1,43 @@
+---
+title: "CV"
+---
+
+## Professional Background
+
+I am a business analytics professional with over three years of experience in data analysis, manufacturing operations, quality management, and cross-functional project coordination.
+
+My professional experience includes analyzing operational and ERP data, developing management reports, supporting process improvement initiatives, conducting cost and ROI analyses, and coordinating quality and compliance activities.
+
+I am currently pursuing a **Master of Science in Applied Business Analytics at Boston University**, with expected graduation in May 2027.
+
+## Experience
+
+### Quality Analyst — DMC Power, a Hubbell Incorporated Company
+**August 2022 – March 2026 | Carson, California**
+
+- Analyzed operational, supplier, inspection, and ERP data to identify recurring issues, process risks, cost drivers, and improvement opportunities.
+- Investigated manufacturing and supplier discrepancies using root-cause analysis and coordinated corrective actions across functions.
+- Prepared quality KPIs and operational trends for management review and decision-making.
+- Extracted and validated Oracle JD Edwards and Excel data for analysis and reporting.
+- Supported ISO 9001 internal audit activities and corrective-action tracking.
+
+## Education
+
+### Boston University, Metropolitan College
+**Master of Science in Applied Business Analytics**  
+Expected May 2027
+
+### University of California, Davis
+**Bachelor of Arts in Economics**  
+Graduated 2022
+
+## Skills
+
+**Analytics:** Excel, Power BI, SQL, Python, R  
+**Methods:** Cost Analysis, ROI Analysis, KPI Analysis, Root-Cause Analysis, Process Improvement, Scenario Analysis  
+**Systems:** Oracle JD Edwards ERP  
+**Languages:** Mandarin Chinese (Native), English (Fluent), Japanese (JLPT N1)
+
+## Download My Resume
+
+[Download Resume (PDF)](Taiqi_Huang_Resume.pdf){.btn .btn-primary target="_blank"}
