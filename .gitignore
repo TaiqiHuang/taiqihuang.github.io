@@ -220,3 +220,7 @@ __marimo__/
 /.quarto/
 **/*.quarto_ipynb
 .venv/*
+
+Taiqi_Huang_Quarto_Source.zip
+Taiqi_Huang_Static_Website.zip
+site_libs/
