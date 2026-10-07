@@ -95,3 +95,29 @@
     font-size: 1.35rem;
   }
 }
+
+/* ---------- CV Cards ---------- */
+
+.cv-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0 2.5rem 0;
+}
+
+.cv-card {
+  border: 1px solid #e3e7eb;
+  border-radius: 12px;
+  padding: 1.5rem;
+  background: #ffffff;
+}
+
+.cv-card h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .cv-grid {
+    grid-template-columns: 1fr;
+  }
+}

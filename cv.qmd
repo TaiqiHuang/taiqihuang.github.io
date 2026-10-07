@@ -2,42 +2,117 @@
 title: "CV"
 ---
 
-## Professional Background
+## Professional Profile
 
-I am a business analytics professional with over three years of experience in data analysis, manufacturing operations, quality management, and cross-functional project coordination.
+Business analytics professional with over three years of experience in data analysis, manufacturing operations, process improvement, quality management, and cross-functional decision support.
 
-My professional experience includes analyzing operational and ERP data, developing management reports, supporting process improvement initiatives, conducting cost and ROI analyses, and coordinating quality and compliance activities.
+Currently pursuing a **Master of Science in Applied Business Analytics at Boston University**, with a focus on applying analytics to practical business and operational problems.
 
-I am currently pursuing a **Master of Science in Applied Business Analytics at Boston University**, with expected graduation in May 2027.
+[Download Full Resume (PDF)](Taiqi_Huang_Resume.pdf){.btn .btn-primary target="_blank"}
+
+---
 
 ## Experience
 
-### Quality Analyst — DMC Power, a Hubbell Incorporated Company
-**August 2022 – March 2026 | Carson, California**
+### Quality Analyst
+**DMC Power, a Hubbell Incorporated Company**  
+*Carson, California | August 2022 – March 2026*
 
 - Analyzed operational, supplier, inspection, and ERP data to identify recurring issues, process risks, cost drivers, and improvement opportunities.
-- Investigated manufacturing and supplier discrepancies using root-cause analysis and coordinated corrective actions across functions.
-- Prepared quality KPIs and operational trends for management review and decision-making.
-- Extracted and validated Oracle JD Edwards and Excel data for analysis and reporting.
-- Supported ISO 9001 internal audit activities and corrective-action tracking.
+- Investigated manufacturing and supplier discrepancies using root-cause analysis and coordinated corrective actions across engineering, manufacturing, purchasing, and suppliers.
+- Synthesized quality KPIs and operational trends into management-review materials to support data-driven decisions.
+- Extracted and validated Oracle JD Edwards and Excel data for investigations, cost analysis, performance reporting, and management decision-making.
+- Supported ISO 9001 internal audit activities and tracked corrective actions through closure.
+
+---
 
 ## Education
 
-### Boston University, Metropolitan College
-**Master of Science in Applied Business Analytics**  
-Expected May 2027
+::: {.cv-grid}
 
+::: {.cv-card}
+### Boston University
+
+**Master of Science in Applied Business Analytics**
+
+Expected Graduation: **May 2027**
+
+Graduate study focused on business analytics, decision support, big data, and applied quantitative methods.
+:::
+
+::: {.cv-card}
 ### University of California, Davis
-**Bachelor of Arts in Economics**  
-Graduated 2022
 
-## Skills
+**Bachelor of Arts in Economics**
 
-**Analytics:** Excel, Power BI, SQL, Python, R  
-**Methods:** Cost Analysis, ROI Analysis, KPI Analysis, Root-Cause Analysis, Process Improvement, Scenario Analysis  
-**Systems:** Oracle JD Edwards ERP  
-**Languages:** Mandarin Chinese (Native), English (Fluent), Japanese (JLPT N1)
+Graduated: **2022**
 
-## Download My Resume
+Academic background in economics, quantitative analysis, and business decision-making.
+:::
 
-[Download Resume (PDF)](Taiqi_Huang_Resume.pdf){.btn .btn-primary target="_blank"}
+:::
+
+---
+
+## Selected Project Experience
+
+### Nondestructive Testing Cost & Operational Analysis
+
+**Power BI · Excel · Oracle JD Edwards**
+
+Analyzed more than 10 years of purchase-order and testing data to identify spending trends, testing demand, turnaround constraints, and major cost drivers.
+
+### Capital Investment ROI Analysis
+
+**ROI · Payback · Scenario Analysis**
+
+Evaluated an industrial inspection investment using purchase, rental, outsourcing, and operating-cost scenarios to support management decision-making.
+
+### Business Optimization & Scenario Analysis
+
+**R · Excel Solver · Forecasting**
+
+Built an optimization model using predictive sales forecasts, staffing costs, commissions, and operating constraints to evaluate projected NPV under multiple scenarios.
+
+---
+
+## Core Skills
+
+::: {.skills-grid}
+
+::: {.skill-card}
+### Analytics
+Excel  
+Power BI  
+SQL  
+Python  
+R
+:::
+
+::: {.skill-card}
+### Business Methods
+Cost Analysis  
+ROI Analysis  
+KPI Analysis  
+Scenario Analysis  
+Process Improvement
+:::
+
+::: {.skill-card}
+### Systems & Languages
+Oracle JD Edwards ERP  
+
+Mandarin Chinese  
+English  
+Japanese (JLPT N1)
+:::
+
+:::
+
+---
+
+## Resume
+
+For a complete summary of my experience, education, projects, and skills:
+
+[Download Full Resume (PDF)](Taiqi_Huang_Resume.pdf){.btn .btn-primary target="_blank"}

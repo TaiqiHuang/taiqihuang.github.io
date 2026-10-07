@@ -2,41 +2,85 @@
 title: "About Me"
 ---
 
-I am a business analytics professional with more than three years of experience in manufacturing operations, quality management, data analysis, and cross-functional project support.
+## Who I Am
 
-I am currently pursuing a **Master of Science in Applied Business Analytics at Boston University**, where I continue to strengthen my skills in data analytics, machine learning, big data, and business decision-making.
+I am a business analytics professional with a background that combines **data analysis, operations, quality management, and cross-functional collaboration**.
 
-Before beginning my graduate studies, I worked as a **Quality Analyst at DMC Power, a Hubbell Incorporated company**, where I used operational, supplier, testing, and ERP data to support management decisions and process improvements.
+My academic and professional experiences have shaped my interest in using data not only to explain what happened, but also to support better business decisions.
 
-My professional experience includes:
+I am currently pursuing a **Master of Science in Applied Business Analytics at Boston University**, where I continue to develop my skills in analytics, decision-making, big data, and business strategy.
 
-- Analyzing operational and quality data to identify trends and improvement opportunities
-- Developing Power BI dashboards and management reports
-- Performing cost, ROI, and investment analyses
-- Supporting ISO 9001 quality management activities
-- Coordinating projects across engineering, manufacturing, purchasing, suppliers, and management
-- Using ERP and business data to support investigations and decision-making
+## My Background
 
-## Education
+I have studied and worked across different environments in Japan, China, and the United States, which has given me experience working across cultures, languages, and business settings.
 
-### Boston University
-**Master of Science in Applied Business Analytics**  
-Expected May 2027
+Professionally, I spent more than three years working in manufacturing operations, where I supported data analysis, process improvement, management reporting, and cross-functional problem solving.
 
-### University of California, Davis
-**Bachelor of Arts in Economics**  
-Graduated June 2022
+These experiences helped me develop an interest in roles where analytical work connects directly to business strategy and operational decisions.
 
-## Skills
+## What I Enjoy Working On
 
-**Data & Programming:** Python, SQL, R, PySpark  
-**Business Intelligence:** Power BI, Excel  
-**Analytics:** Data Visualization, ROI Analysis, Cost Analysis, KPI Reporting, Statistical Analysis  
-**Technology:** AWS, GitHub, Quarto, Oracle JD Edwards  
-**Languages:** Mandarin Chinese, English, Japanese
+I am especially interested in problems that involve:
 
-## Career Goals
+- Turning complex data into clear business insights
+- Identifying trends and opportunities for improvement
+- Supporting operational and strategic decisions
+- Building dashboards and visualizations for decision-makers
+- Evaluating business scenarios, costs, risks, and investments
+- Working across functions to solve practical business problems
 
-My goal is to build a career at the intersection of **data analytics, business strategy, and operations**.
+## My Approach
 
-I am particularly interested in Data Analyst, Business Analyst, Business Intelligence, Analytics & Insights, Strategy & Operations, and Product Planning opportunities where I can combine analytical skills with real-world business experience.
+I enjoy combining **technical analysis with business context**.
+
+For me, analytics is most valuable when the result is understandable, practical, and useful for decision-making.
+
+My goal is not only to build models or dashboards, but to connect analysis with real business questions such as:
+
+- What is driving performance?
+- Where are the biggest risks or opportunities?
+- Which option creates the most business value?
+- How can data support a better decision?
+
+## Career Interests
+
+I am interested in opportunities related to:
+
+- Data Analytics
+- Business Analytics
+- Business Intelligence
+- Analytics & Insights
+- Strategy and Operations
+- Product and Business Planning
+
+I am particularly interested in roles where I can combine analytical skills, business understanding, and cross-functional communication.
+
+## Beyond Analytics
+
+I enjoy working in international environments and communicating across different cultures and languages.
+
+I speak **Mandarin Chinese, English, and Japanese**, and I am especially interested in global companies where data, technology, and business strategy intersect.
+
+[View My Projects →](projects.qmd){.btn .btn-primary}
+
+[View My CV →](cv.qmd){.btn .btn-outline-primary}
+
+
+::: {.skills-grid}
+
+::: {.skill-card}
+### Data
+Python · SQL · PySpark · Power BI
+:::
+
+::: {.skill-card}
+### Business
+ROI · KPI · Scenario Analysis · Strategy
+:::
+
+::: {.skill-card}
+### Global
+English · Japanese · Mandarin
+:::
+
+:::
